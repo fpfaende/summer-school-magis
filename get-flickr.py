@@ -8,7 +8,7 @@ import csv
 url = 'https://api.flickr.com/services/rest/'
 payload = {
 	'method':'flickr.photos.search',
-	'api_key':'2d5481f4b9e0d48f5f3ec89c76ad3dae',
+	'api_key':'YOUR KEY HERE !!!!!!!!',
 	'has_geo':'true',
 	'extras':'geo,tags',
 	'format':'json',
